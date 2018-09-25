@@ -1,4 +1,4 @@
 # hello-world
 Guideline testing 
 
-nice to meeting you !
+nice meeting you !
